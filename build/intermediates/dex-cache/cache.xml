@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\saksham_\.android\build-cache\f5b10506d68dd52f998127df82e255d2facb4dda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caa226fe5445727563b1a9e8666224bf84f0a832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saksham_\.android\build-cache\e671958d66303c7d3919cb4a25bdbce23c341f18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb31b22a36bbdb2a215cdabed170c06e1c265777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saksham_\.android\build-cache\6186db641586a6492f49729c885a438774217b61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9916ed5d0d0d7aecad931c097520ffe1433aa0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a6dde7f89c54c6864330c67394f748791d0a694c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ac013135979952259b50a1aa9319e4ec0aaf45d">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5e0fc8f223b8aeaacf9cb98da9f81c392c458e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saksham_\.android\build-cache\32570d38857b5399d2583db4f0164e7e9a37a866\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Projects\AndroidStudioProjects\BillScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb8dc0eff664a652f5521c86b420ad9604895331\classes.dex" />
+    </item>
+
+</items>

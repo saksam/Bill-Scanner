@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.shiva.billscanner.Main.Home"
+    tools:showIn="@layout/app_bar_home">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:id="@+id/card1"
+        >
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="WELCOME... User"
+            android:textSize="25dp"
+            android:padding="15dp"
+            android:id="@+id/welcome"
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_below="@id/card1"
+        android:id="@+id/card2"
+
+        >
+        <TextView
+            android:id="@+id/budget"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Total Budget Left: Rs 500"
+            android:textSize="20dp"
+            android:padding="15dp"
+            android:textColor="@color/cardview_dark_background"
+            />
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_below="@id/card2"
+        android:id="@+id/cardView">
+        <TextView
+            android:id="@+id/expenditure"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Total Current Expenditure: Rs 500"
+            android:textSize="20dp"
+            android:padding="15dp"
+            android:textColor="@color/cardview_dark_background"
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:id="@+id/viewbill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cardView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="118dp"
+        android:onClick="viewBill"
+        android:text="View current bill"
+        android:textColor="@color/cardview_dark_background" />
+
+
+</RelativeLayout>
